@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documents\Git\Console-App-Refresher\bin\Debug\net6.0\Console-App-Refresher.exe
+C:\Users\antho\OneDrive\Documents\Git\Console-App-Refresher\bin\Debug\net6.0\Console-App-Refresher.deps.json
+C:\Users\antho\OneDrive\Documents\Git\Console-App-Refresher\bin\Debug\net6.0\Console-App-Refresher.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\Git\Console-App-Refresher\bin\Debug\net6.0\Console-App-Refresher.dll
+C:\Users\antho\OneDrive\Documents\Git\Console-App-Refresher\bin\Debug\net6.0\ref\Console-App-Refresher.dll
+C:\Users\antho\OneDrive\Documents\Git\Console-App-Refresher\bin\Debug\net6.0\Console-App-Refresher.pdb
+C:\Users\antho\OneDrive\Documents\Git\Console-App-Refresher\obj\Debug\net6.0\Console-App-Refresher.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documents\Git\Console-App-Refresher\obj\Debug\net6.0\Console-App-Refresher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\Git\Console-App-Refresher\obj\Debug\net6.0\Console-App-Refresher.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\Git\Console-App-Refresher\obj\Debug\net6.0\Console-App-Refresher.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\Git\Console-App-Refresher\obj\Debug\net6.0\Console-App-Refresher.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\Git\Console-App-Refresher\obj\Debug\net6.0\Console-App-Refresher.dll
+C:\Users\antho\OneDrive\Documents\Git\Console-App-Refresher\obj\Debug\net6.0\ref\Console-App-Refresher.dll
+C:\Users\antho\OneDrive\Documents\Git\Console-App-Refresher\obj\Debug\net6.0\Console-App-Refresher.pdb
+C:\Users\antho\OneDrive\Documents\Git\Console-App-Refresher\obj\Debug\net6.0\Console-App-Refresher.genruntimeconfig.cache
